@@ -1,3 +1,2 @@
-# hi everyone!
+# Hi everyone!
 I am Rudhrani Rakhecha currently pursuing my mastrers from MBM Enginerring College.
-just another repositiory
